@@ -12,7 +12,7 @@ Program didesain 7 Class Utama:
 * *TambahDokter*
 
 ## Desain Kelas Program
-![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/ML.drawio%20(1).png)
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/UML.drawio%20(1).png)
 
 * *Login_Klinik* berisikan GUI Login dimana user menginput username dan password yang sudah dibuat yang mana data tersebut akan dicek didalam database apabila ditemukan
 maka akan mengeluarkan jOptionPane dialog berhasil lalu dipindahkan kedalam halaman menu dan juga sebaliknya.
