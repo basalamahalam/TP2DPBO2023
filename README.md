@@ -28,6 +28,10 @@ dan dibuat maka akan ada jOptionpane dialog daftar berhasil lalu pindah kedalam 
 ![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/erd.drawio%20(1).png)
 
 ## Alur Program GUI
+### Akun Login:
+* *Username : admin*
+* *Password : admin*
+
 ![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1084).png)
 ![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1085).png)
 ![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1088).png)
