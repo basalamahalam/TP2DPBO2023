@@ -12,7 +12,7 @@ Program didesain 7 Class Utama:
 * *TambahDokter*
 
 ## Desain Kelas Program
-
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/ML.drawio%20(1).png)
 
 * *Login_Klinik* berisikan GUI Login dimana user menginput username dan password yang sudah dibuat yang mana data tersebut akan dicek didalam database apabila ditemukan
 maka akan mengeluarkan jOptionPane dialog berhasil lalu dipindahkan kedalam halaman menu dan juga sebaliknya.
@@ -25,7 +25,12 @@ dan dibuat maka akan ada jOptionpane dialog daftar berhasil lalu pindah kedalam 
 * *TambahDokter* berisikan GUI Form dari Dokter, dimana user harus menginputan text untuk nama dokter, dan nama spesialis, memilih RadioButton dari jeniskelamin serta status, dan juga memasukan gambar.
 
 ## Entity Relationship Diagram
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/erd.drawio%20(1).png)
 
 ## Alur Program GUI
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1084).png)
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1085).png)
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/Screenshot%20(1088).png)
+![Screenshot](https://github.com/basalamahalam/TP2DPBO2023/blob/main/screenshot/WhatsApp%20Image%202023-04-12%20at%2021.26.00.jpeg)
 
 Screenshot gagal (seharusnya masih banyak) dikarenakan ada error di mysql setelah restart laptop, seharusnya berjalan namun ada kendala ketika login jadi tidak bisa masuk. sebenernya sudah beres hanya saja ada error yang mana membuat saya tidak bisa memberikan screenshot keseluruhan :')
