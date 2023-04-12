@@ -28,3 +28,4 @@ dan dibuat maka akan ada jOptionpane dialog daftar berhasil lalu pindah kedalam 
 
 ## Alur Program GUI
 
+Screenshot gagal (seharusnya masih banyak) dikarenakan ada error di mysql setelah restart laptop, seharusnya berjalan namun ada kendala ketika login jadi tidak bisa masuk. sebenernya sudah beres hanya saja ada error yang mana membuat saya tidak bisa memberikan screenshot keseluruhan :')
